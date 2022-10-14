@@ -47,4 +47,4 @@ https://user-images.githubusercontent.com/27821256/195843815-c96df54a-f022-421b-
 
 
 ## Contributing
-Pull requests are welcome.
+Pull requests are welcome...
