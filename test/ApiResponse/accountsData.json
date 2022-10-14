@@ -1,0 +1,65 @@
+{
+  "@odata.context":"https://org9d7013e1.api.crm4.dynamics.com/api/data/v9.2/$metadata#accounts(name,accountnumber,address1_stateorprovince,emailaddress1,crfaf_picture_url,crfaf_statecode,statecode)",
+  "value":[
+    {
+      "@odata.etag":"W/\"3375441\"",
+      "name":"waqar",
+      "accountnumber":"2022",
+      "address1_stateorprovince":"punjab",
+      "emailaddress1":null,
+      "crfaf_picture_url":"/Image/download.aspx?Entity=account&Attribute=crfaf_picture&Id=b0bf85d7-f447-ed11-bba2-000d3ab694bb&Timestamp=638009367018698557",
+      "crfaf_statecode":"pun",
+      "statecode":0,
+      "accountid":"b0bf85d7-f447-ed11-bba2-000d3ab694bb",
+      "address1_composite":"punjab"
+    },
+    {
+      "@odata.etag":"W/\"3260289\"",
+      "name":"Cafe Duo",
+      "accountnumber":"3006",
+      "address1_stateorprovince":"WA",
+      "emailaddress1":"pete@contoso.com",
+      "crfaf_picture_url":null,
+      "crfaf_statecode":null,
+      "statecode":0,
+      "accountid":"88019079-e334-46c0-b2da-27d8a73c51dc",
+      "address1_composite":"WA"
+    },
+    {
+      "@odata.etag":"W/\"3375456\"",
+      "name":"Fourth Coffee",
+      "accountnumber":"2020",
+      "address1_stateorprovince":"WA",
+      "emailaddress1":"claudia@pmgdemo.onmicrosoft.com",
+      "crfaf_picture_url":"/Image/download.aspx?Entity=account&Attribute=crfaf_picture&Id=dbdd0b93-4a1b-4848-b83a-39352f6b2e7a&Timestamp=638009368169030172",
+      "crfaf_statecode":"kpk",
+      "statecode":0,
+      "accountid":"dbdd0b93-4a1b-4848-b83a-39352f6b2e7a",
+      "address1_composite":"WA"
+    },
+    {
+      "@odata.etag":"W/\"3260296\"",
+      "name":"Contoso Coffee",
+      "accountnumber":"2017",
+      "address1_stateorprovince":"WA",
+      "emailaddress1":"claudiam365@pmgdemo.onmicrosoft.com",
+      "crfaf_picture_url":null,
+      "crfaf_statecode":null,
+      "statecode":0,
+      "accountid":"0faa50fe-e7d0-4e9d-bdfd-3aacc2d9cbdd",
+      "address1_composite":"WA"
+    },
+    {
+      "@odata.etag":"W/\"3260299\"",
+      "name":"Bean-to-Cup Machines",
+      "accountnumber":"3011",
+      "address1_stateorprovince":"WA",
+      "emailaddress1":"parsifal@contoso.com",
+      "crfaf_picture_url":null,
+      "crfaf_statecode":null,
+      "statecode":0,
+      "accountid":"bda958a1-7ff7-4f69-9812-83d77efe0cc8",
+      "address1_composite":"WA"
+    }
+  ]
+}
