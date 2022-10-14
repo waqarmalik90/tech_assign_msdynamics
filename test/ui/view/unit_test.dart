@@ -31,14 +31,11 @@ void main(){
     });
 
     test("Get Accounts Table Data into our Model", () async {
-      //late AccountApiProvider accountApiProvider;
       DataController dataController = DataController();
       late ApiClient apiClient;
-      //late AadOauthClient aadOauthClient;
-      //aadOauthClient = MockAadOauthClient();
+    
       apiClient = MockApiClient();
-     // accountApiProvider = AccountApiProvider(apiClient, aadOauthClient);
-
+     
       File apiFile = File('test/ApiResponse/accountsData.json');
       final jsonMap = jsonDecode(apiFile.readAsStringSync()) as Map<String, dynamic>;
 
