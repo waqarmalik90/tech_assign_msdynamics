@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this application to use Microsoft Dynamics CRM Accounts Table which is hosted on Microsoft Azure through a Web API. MSAF (Microsoft Authentication Library) token was used to make the Dynamics CRM API Call.
+The purpose of this application to use Microsoft Dynamics CRM Accounts Table which is hosted on Microsoft Azure through a Web API. MSAL (Microsoft Authentication Library) token was used to make the Dynamics CRM API Call.
 
 ## Packages Used
 
